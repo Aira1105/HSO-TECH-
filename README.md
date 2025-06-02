@@ -1,6 +1,6 @@
 ###### **Note: Use Ctrl + Left Click on links to open it as a new tab..**
 
-$${\color{cornflowerblue}Local \space Machine}$$
+$${\color{blue}Local \space Machine}$$
 ###### **Updates**
 ###### - Added Notes for TCD - Dentrix Core
 
