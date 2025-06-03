@@ -87,38 +87,39 @@ Freezing or crashing during use.
 
 ## Dentrix Performance Troubleshooting Guide
 
-### When did the slowing in Dentrix start? 
+### <small>When did the slowing in Dentrix start?</small> 
 Consider the following:
 
-- **Recent power outage?**  
-  - If so, contact support when everyone has time to be out of Dentrix. 
+- **<small>Recent power outage?</small>**  
+  - <small>If so, contact support when everyone has time to be out of Dentrix.</small>  
 
-- **Was Dentrix fast yesterday or last week?**  
+- **<small>Was Dentrix fast yesterday or last week?</small>**  
 
-- **Did the issue start after a Windows or software update?**  
+- **<small>Did the issue start after a Windows or software update?</small>**  
 
-- **What changes were made on the computer(s), if any?**  
+- **<small>What changes were made on the computer(s), if any?</small>**  
 
-### Version & Updates Check
-- **Are you on the latest version of Dentrix?**  
-  - If not, follow the **How To Check For Updates** guide and install them.  
+### <small>Version & Updates Check</small>
+- **<small>Are you on the latest version of Dentrix?</small>**  
+  - <small>If not, follow the **How To Check For Updates** guide and install them.</small>  
 
-- **Is Windows current with all Windows updates?**  
+- **<small>Is Windows current with all Windows updates?</small>**  
 
-### Performance & System Checks
-- **Use Windows Task Manager** to verify that the server CPU is not running at 100% usage.  
-  - If so, you may need to restart the server.  
+### <small>Performance & System Checks</small>
+- **<small>Use Windows Task Manager</small>** to verify that the server CPU is not running at 100% usage.  
+  - <small>If so, you may need to restart the server.</small>  
 
-- **Check for exclusions in Antivirus or backup software running.**  
+- **<small>Check for exclusions in Antivirus or backup software running.</small>**  
 
-- **Verify that your computers meet the minimum [System Requirements](Click here) to view current requirements.**  
+- **<small>Verify that your computers meet the minimum [System Requirements](Click here) to view current requirements.</small>**  
 
-- **Check Server disk space on the C: drive (and the data drive, if applicable).**  
-  - Ensure there is at least **10% free space** on the system drive (C:), where the OS and the program files for Dentrix are located.  
-  - Ensure there is at least **15% free space** on the data drive.  
+- **<small>Check Server disk space on the C: drive (and the data drive, if applicable).</small>**  
+  - <small>Ensure there is at least **10% free space** on the system drive (C:), where the OS and the program files for Dentrix are located.</small>  
+  - <small>Ensure there is at least **15% free space** on the data drive.</small>  
 
-### Contact Support  
-If the slowness issue is not resolved, **please contact Support** for assistance.
+### <small>Contact Support</small>  
+<small>If the slowness issue is not resolved, **please contact Support** for assistance.</small>
+
 
 
 
