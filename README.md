@@ -95,7 +95,7 @@
 ###### Did the issue start after a Windows or software update?  
 ###### What changes were made on the computer(s), if any?  
 #### Version & Updates Check
-###### *Are you on the latest version of Dentrix?*  
+###### Are you on the latest version of Dentrix? [`How to check for Dentrix Version`](https://drive.google.com/file/d/1hFnF4ii50GWqLDDKIPPz0CwsYyPFy2HL/view?usp=sharing)
 ###### If not, follow the How To Check For Updates guide and install them. [`How to Update Dentrix`](https://drive.google.com/file/d/14qXo02seDUbUWtUeAmne17NIA8iRiLLL/view?usp=sharing) 
 ###### Is Windows current with all Windows updates?  [`How to check for Windows Update`](https://drive.google.com/file/d/1Cn6sjG_JGyqXSYcb61OqP132M09i6l2J/view?usp=sharing)
 #### **Performance & System Checks**
