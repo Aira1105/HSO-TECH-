@@ -8,8 +8,8 @@ $${\color{blue}Local \space Machine}$$
 ###### *HSO Device Information*
 | Device        | Processor Cores/Threads           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
-| 💻 $${\color{cornflowerblue}Local \space Machine}$$ | `I5 11th/12th 6C/12T`              | 16GB          | 256GB   |
-| 📥 $${\color{Red}AVD/VMware}$$    | `Intel Xeon Platinum 8573C 1C/2T`  | 8GB         | 128GB   |
+| 💻 `Local  Machine` | `I5 11th/12th 6C/12T`              | 16GB          | 256GB   |
+| 📥 `AVD/VMware`    | `Intel Xeon Platinum 8573C 1C/2T`  | 8GB         | 128GB   |
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
