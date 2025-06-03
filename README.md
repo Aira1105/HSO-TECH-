@@ -88,7 +88,7 @@
 ###### When did the slowing in Dentrix start? 
 ##### Consider the following:
 ##### Recent power outage?  
-  - If so, contact support when everyone has time to be out of Dentrix. 
+######  *If so, contact support when everyone has time to be out of Dentrix.* 
 - Was Dentrix fast yesterday or last week?  
 - Did the issue start after a Windows or software update?  
 - What changes were made on the computer(s), if any?  
