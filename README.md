@@ -12,16 +12,16 @@
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
-|Allsec LILO *Important*           | **$${\color{cornflowerblue}Local \space Machine}$$** | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |  [`🔗`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
-|OP360 Google Suites               | $${\color{cornflowerblue}Local \space Machine}$$ | Google Chrome                             |  1min/2mins                 | $${\color{orange}Moderate}$$           | [`🔗`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
-|Remote Desktop                    | $${\color{cornflowerblue}Local \space Machine}$$ | Stand-alone App                           | 3mins/5mins                 | $${\color{red}High}$$                  |                                                             |           
-|Github Repository                 | $${\color{cornflowerblue}Local \space Machine}$$ | Google Chrome                             |  30secs/1min                | $${\color{green}Low}$$                 |  [`🔗`](https://github.com/Aira1105/HSO-Tech)                                                            |
-|Salesforce HS1 Support Console CRM| $${\color{Red}AVD/VMware}$$    | Google Chrome                             |  2mins/4mins                | $${\color{red}High}$$                  |  [`🔗`](https://henryscheinone.lightning.force.com/lightning/page/home)                                                            |
-|Bomgar Remote                     | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{red}High}$$                  |                                                             |
-|Dentrix-Core Software + Dentrix Ascend             | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  2mins/4mins                | $${\color{red}High}$$                  |                                                             |
-|Microsoft Outlook                 | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
-|Microsoft Teams                   | $${\color{Red}AVD/VMware}$$    | Stand-alone App                           |  1min/2mins                 | $${\color{orange}Moderate}$$           |                                                             |
-|**Total Load Time**                   |                                |                                           |  $${\color{Green}12mins/23mins}$$                     |                                        |                                                             |
+|Allsec LILO *Important*           | Local \space Machine | Google Chrome                             |  30secs/1min                |Low                 |  [`🔗`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
+|OP360 Google Suites               | Local \space Machine | Google Chrome                             |  1min/2mins                 | Moderate           | [`🔗`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
+|Remote Desktop                    | Local \space Machine | Stand-alone App                           | 3mins/5mins                 | High                  |                                                             |           
+|Github Repository                 | Local \space Machine | Google Chrome                             |  30secs/1min                |Low                 |  [`🔗`](https://github.com/Aira1105/HSO-Tech)                                                            |
+|Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | High                  |  [`🔗`](https://henryscheinone.lightning.force.com/lightning/page/home)                                                            |
+|Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | High                  |                                                             |
+|Dentrix-Core Software + Dentrix Ascend             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | High                  |                                                             |
+|Microsoft Outlook                 | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | Moderate           |                                                             |
+|Microsoft Teams                   | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | Moderate           |                                                             |
+|**Total Load Time**                   |                                |                                           | 12mins/23mins                     |                                        |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
 ### **OP360 Tools**
@@ -29,7 +29,7 @@
 - **Allsec Website** - [`Link`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - ***Make sure to check your Log-ins to prevent disputes and corrections***
 - **OP360 Zoho People** - [`Link`](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)
 - **OP360 Google Suites** - [`Link`](https://mail.google.com/mail/u/0/?pli=1#inbox)
-- **OP360 Facilities Request Page** [`Link`](https://people.zoho.com/ops360/zp#facilities_portal/facilities_asset_request_management/add)  $${\color{darkolivegreen}Lockers \space Yubikeys}$$
+- **OP360 Facilities Request Page** [`Link`](https://people.zoho.com/ops360/zp#facilities_portal/facilities_asset_request_management/add)  $${\color{darkolivegreen}Lockers \space Yubikeys
 - **OP360 ResetPassword** [`Link`](https://resetpw.officepartners360.com/authorization.do)
 - **OP360 IT Incident Ticket Creation** [`Link`](https://servicedesk.officepartners360.com/support/tickets/new)
 - **OP360 Service Request Ticket Creation** [`Link`](https://servicedesk.officepartners360.com/support/catalog/items?popular=true)
@@ -51,7 +51,7 @@
 ### **HSO Team Leads Support Tools**
 - **CXone Admin Dashboard** - [`Link`](https://cxone.niceincontact.com)
 - **HSO Incident Report Guide** - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
-- **HSO Incident Report Tech Helpdesk Tickets** - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - $${\color{deeppink}All \space Tickets \space Should \space Be \space \ Reported}$$
+- **HSO Incident Report Tech Helpdesk Tickets** - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - $${\color{deeppink}All \space Tickets \space Should \space Be \space \ Reported
 - **HSO Helpdesk Portal** - [`Link`](https://henryscheinone-it.atlassian.net/servicedesk/customer/portals)
 - **HSO Roster File For Attendance** - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
 - **HSO Tech Docs and Data File** - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
@@ -65,13 +65,13 @@
 ### **OP360 Courses and Guidelines** 
 - **Mandatory Courses for New Hires**
 - Mandatory Courses for New Hires Zoho - [`Link`](https://people.op360.com/ops360/training#lms-view/course/619096000106698857/module)
-- Mandatory Courses for New Hires Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=268678928#gid=268678928) - $${\color{green}Completed}$$
+- Mandatory Courses for New Hires Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=268678928#gid=268678928) -Completed
 - **Information Security Refresher 2025**
 - Information Security 2025 Zoho - [`Link`](https://people.op360.com/ops360/training#lms-view/course/619096000248822639/overview)
-- Information Security Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=0#gid=0) - $${\color{green}Completed}$$
-- **HR Roadshow: Discipline Management**        -     $${\color{Orange}For Leadership Roles}$$
+- Information Security Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=0#gid=0) -Completed
+- **HR Roadshow: Discipline Management**        -     For Leadership Roles
 - HR Roadshow: Discipline Managent - [`Link`](https://people.op360.com/ops360/training#lms-view/course/619096000107703201/overview)
-- Discipline Management Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=980605503#gid=980605503) - $${\color{green}Completed}$$
+- Discipline Management Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=980605503#gid=980605503) -Completed
 - **Mandatory 8-hour OSH Seminar**
 - Mandatoy 8-hour OSH Seminar Zoho - [`Link`](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
 
@@ -130,7 +130,7 @@ Error Messages
 Generic or unclear error messages that make troubleshooting difficult.
 
 
-- Mandatory 8-hour OSH Seminar Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) - $${\color{green}Completed}$$
+- Mandatory 8-hour OSH Seminar Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) -Completed
 - **OfficePartners360 Call-In Procedure**
 - Call-In Procedure - [`Link`](https://people.zoho.com/ops360/training#lms-view/course/619096000254653227/overview)
 - OfficePartners360 Leave Guidelines - [`Link`](https://www.canva.com/design/DAGn_Y7_QAU/QlVXxoYmxo9jVD4IimkSHw/view)
