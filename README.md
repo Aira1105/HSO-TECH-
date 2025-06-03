@@ -107,7 +107,7 @@
 ###### Ensure there is at least 10% free space on the system drive (C:), where the OS and the program files for Dentrix are located.  
 ###### Ensure there is at least 15% free space on the data drive.  
 
-### Contact Support  
+#### Contact Support  
 ##### ***If the slowness issue is not resolved, please contact Support for assistance.***
 
 000063137
