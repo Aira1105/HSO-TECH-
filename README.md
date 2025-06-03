@@ -110,8 +110,72 @@
 ### Contact Support  
 If the slowness issue is not resolved, please contact Support for assistance.
 
+000063137
 
+ 
+Dentrix 24.19 running slow on all computers.
 
+ 
+
+ 
+
+Workaround
+Try each step below, testing after each one to see if it resolves the issue:
+
+Restart Appointment Book on all computers.
+Restart the DentrixACEServer service.
+Open DBSweep.exe. There’s no need to run it—simply open and close the program. 
+Reboot the server.
+If these steps do not resolve the issue, proceed to  Environmental Slowness - First Level.
+
+Steps to Duplicate
+Load 24.19
+
+Open AB and create an appt for Brent Crosby. Be sure to check the "Do not show again" on the prompts
+
+Open Ctree Ace Monitor, and enable Auto Refresh for every 3 seconds
+
+Note the total number of connections for SQL and ISAM
+
+Open and close Brent's appt - no changes, click OK to close
+
+Watch the ISAM connection count rise on each open
+
+000001772
+
+Slowness Checklist:
+What is the full version of Dentrix currently used? 
+ If already on a current year of Dentrix (ie 24.X, 25.X), proceed with the troubleshooting below. If they are not and all machines are affected, upgrade to our current version of Dentrix.  Offer to transfer them to the Dentrix Installs team to schedule.   Many slowness and WI related to performance have been resolved in our current versions. Inform the customer that the steps we perform below are a temporary fix and that the issue will return if they are not using a current version of Dentrix. 
+For talking points on the advantages of upgrading, see Dentrix Automatic Updates FAQ and Links
+Is the slowness happening in a module(s) or all of Dentrix?  If only in a specific module(s), use the table to locate the article to use and attach.  If all module(s), go to Step 4. 
+Module	Article
+Appointment Book 	
+61554 - Known Issue (RESOLVED): Appointment book very slow on 24.5 & 24.6
+61548 - Dentrix Appointment Book Slowness
+62142 - Known Issue: 24.7+ Appointment Book Freezing, Not Able to Set Appointment Complete
+Patient Chart 	
+61550 - Dentrix Chart Slowness
+Perio Chart	
+Perio Chart Slowness and General Troubleshooting Index
+Document Center	
+61598 - Dentrix Document Center Slowness
+Ledger	
+61919 - Dentrix Ledger Slowness
+Office Manager
+
+61920 Dentrix Office Manager Slowness 
+Treatment Planner
+
+61928 Treatment Planner Slowness
+Log in to the server and one workstation to confirm.  (Be sure to document all the answers to the questions below in your case.)
+Is there an error message on any computer?
+Can you find it in the Knowledgebase?.
+Non-Module	Article
+General slowness	
+Environmental Slowness- First Level
+Remember DO NOT mention an ASSESSMENT or TKO.  After you have completed and documented the above steps with no resolution, then contact NLH/Mentor for call takeover and advanced slowness troubleshooting.
+
+ 
 
 Database Connection Errors
 
