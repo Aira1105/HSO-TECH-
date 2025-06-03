@@ -108,7 +108,7 @@
 ###### Ensure there is at least 15% free space on the data drive.  
 
 ### Contact Support  
-If the slowness issue is not resolved, please contact Support for assistance.
+##### ***If the slowness issue is not resolved, please contact Support for assistance.***
 
 000063137
 
