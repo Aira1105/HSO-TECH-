@@ -12,10 +12,10 @@
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
-|Allsec LILO *Important*           | Local \space Machine | Google Chrome                             |  30secs/1min                |Low                 |  [`🔗`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
-|OP360 Google Suites               | Local \space Machine | Google Chrome                             |  1min/2mins                 | Moderate           | [`🔗`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
-|Remote Desktop                    | Local \space Machine | Stand-alone App                           | 3mins/5mins                 | High                  |                                                             |           
-|Github Repository                 | Local \space Machine | Google Chrome                             |  30secs/1min                |Low                 |  [`🔗`](https://github.com/Aira1105/HSO-Tech)                                                            |
+|Allsec LILO *Important*           | Local  Machine | Google Chrome                             |  30secs/1min                |Low                 |  [`🔗`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
+|OP360 Google Suites               | Local  Machine | Google Chrome                             |  1min/2mins                 | Moderate           | [`🔗`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
+|Remote Desktop                    | Local  Machine | Stand-alone App                           | 3mins/5mins                 | High                  |                                                             |           
+|Github Repository                 | Local  Machine | Google Chrome                             |  30secs/1min                |Low                 |  [`🔗`](https://github.com/Aira1105/HSO-Tech)                                                            |
 |Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | High                  |  [`🔗`](https://henryscheinone.lightning.force.com/lightning/page/home)                                                            |
 |Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | High                  |                                                             |
 |Dentrix-Core Software + Dentrix Ascend             | AVD/VMware    | Stand-alone App                           |  2mins/4mins                | High                  |                                                             |
@@ -29,7 +29,7 @@
 - Allsec Website - [`Link`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - *Make sure to check your Log-ins to prevent disputes and corrections*
 - OP360 Zoho People - [`Link`](https://people.zoho.com/ops360/zp#home/myspace/overview-profile)
 - OP360 Google Suites - [`Link`](https://mail.google.com/mail/u/0/?pli=1#inbox)
-- OP360 Facilities Request Page [`Link`](https://people.zoho.com/ops360/zp#facilities_portal/facilities_asset_request_management/add)  $${\color{darkolivegreen}Lockers \space Yubikeys
+- OP360 Facilities Request Page [`Link`](https://people.zoho.com/ops360/zp#facilities_portal/facilities_asset_request_management/add)  $${\color{darkolivegreen}Lockers  Yubikeys
 - OP360 ResetPassword [`Link`](https://resetpw.officepartners360.com/authorization.do)
 - OP360 IT Incident Ticket Creation [`Link`](https://servicedesk.officepartners360.com/support/tickets/new)
 - OP360 Service Request Ticket Creation [`Link`](https://servicedesk.officepartners360.com/support/catalog/items?popular=true)
