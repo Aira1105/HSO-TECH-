@@ -80,7 +80,7 @@
 - OfficePartners360 Leave Guidelines - [`Link`](https://www.canva.com/design/DAGn_Y7_QAU/QlVXxoYmxo9jVD4IimkSHw/view)
 
 
-## Performance Issues
+### **Performance Issues**
 
 ###### Slow startup or sluggish performance, especially on older hardware or when used with large databases.
 ###### Freezing or crashing during use.
@@ -89,16 +89,16 @@
 ##### Consider the following:
 ##### Recent power outage?  
 ######  *If so, contact support when everyone has time to be out of Dentrix.* 
-- Was Dentrix fast yesterday or last week?  
-- Did the issue start after a Windows or software update?  
-- What changes were made on the computer(s), if any?  
+###### Was Dentrix fast yesterday or last week?  
+###### Did the issue start after a Windows or software update?  
+###### What changes were made on the computer(s), if any?  
 ### Version & Updates Check
-- Are you on the latest version of Dentrix?  
-  - If not, follow the How To Check For Updates guide and install them.  
-- Is Windows current with all Windows updates?  
-### Performance & System Checks
-- Use Windows Task Manager to verify that the server CPU is not running at 100% usage.  
-  - If so, you may need to restart the server.  
+###### *Are you on the latest version of Dentrix?*  
+###### If not, follow the How To Check For Updates guide and install them.  
+###### Is Windows current with all Windows updates?  
+### **Performance & System Checks**
+###### Use Windows Task Manager to verify that the server CPU is not running at 100% usage.  
+###### If so, you may need to restart the server.  
 - Check for exclusions in Antivirus or backup software running.  
 - Verify that your computers meet the minimum [System Requirements](Click here) to view current requirements.  
 - Check Server disk space on the C: drive (and the data drive, if applicable).  
