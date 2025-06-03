@@ -82,9 +82,9 @@
 
 ## Performance Issues
 
-Slow startup or sluggish performance, especially on older hardware or when used with large databases.
-Freezing or crashing during use.
-- Dentrix Performance Troubleshooting Guide
+###### Slow startup or sluggish performance, especially on older hardware or when used with large databases.
+######Freezing or crashing during use.
+###### - Dentrix Performance Troubleshooting Guide
 ### When did the slowing in Dentrix start? 
 Consider the following:
 - Recent power outage?  
