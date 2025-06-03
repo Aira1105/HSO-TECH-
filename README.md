@@ -1,10 +1,9 @@
 ###### **Note: Use Ctrl + Left Click on links to open it as a new tab..**
 
-$${\color{blue}Local \space Machine}$$
 ###### **Updates**
 ###### - Added Notes for TCD - Dentrix Core
 
-## **$${\color{Darkslateblue}OP360 \space  Workstations}$$**
+## OP360 Workstations**
 ###### *HSO Device Information*
 | Device        | Processor Cores/Threads           | Memory           | Storage |
 |---------------|----------------------------------|------------------|---------|
