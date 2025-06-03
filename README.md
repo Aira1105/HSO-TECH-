@@ -51,7 +51,7 @@
 ### **HSO Team Leads Support Tools**
 - **CXone Admin Dashboard** - [`Link`](https://cxone.niceincontact.com)
 - **HSO Incident Report Guide** - [`Link`](https://docs.google.com/document/d/1o2ZXuiT_2iye9N4t4VNB28ZrhBL47E5siRtJSUkk7pc/edit?tab=t.0)
-- **HSO Incident Report Tech Helpdesk Tickets** - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - $${\color{deeppink}All \space Tickets \space Should \space Be \space \ Reported
+- **HSO Incident Report Tech Helpdesk Tickets** - [`Link`](https://docs.google.com/spreadsheets/d/1rpar5qKJFCiKN3rA4x0dxiXBYUqHiSY535hcTEC0QL4/edit?gid=0#gid=0) - All  Tickets Should Be Reported
 - **HSO Helpdesk Portal** - [`Link`](https://henryscheinone-it.atlassian.net/servicedesk/customer/portals)
 - **HSO Roster File For Attendance** - [`Link`](https://docs.google.com/spreadsheets/d/1ZYgCLS2GW1evZAEWbZZxcwBM7YidbWs1KrCbxeZ-nz0/edit?gid=2046123913#gid=2046123913)
 - **HSO Tech Docs and Data File** - [`Link`](https://docs.google.com/spreadsheets/d/1P6jcS3oIz92eMslIUt-eWig9ZISz8XVr-lPmmRFGRNs/edit?gid=0#gid=0)
@@ -74,6 +74,11 @@
 - Discipline Management Assessment Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=980605503#gid=980605503) -Completed
 - **Mandatory 8-hour OSH Seminar**
 - Mandatoy 8-hour OSH Seminar Zoho - [`Link`](https://people.zoho.com/ops360/training#lms-view/course/619096000103264566/module)
+- - Mandatory 8-hour OSH Seminar Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) -Completed
+- **OfficePartners360 Call-In Procedure**
+- Call-In Procedure - [`Link`](https://people.zoho.com/ops360/training#lms-view/course/619096000254653227/overview)
+- OfficePartners360 Leave Guidelines - [`Link`](https://www.canva.com/design/DAGn_Y7_QAU/QlVXxoYmxo9jVD4IimkSHw/view)
+
 
 Performance Issues
 
@@ -129,8 +134,3 @@ Error Messages
 
 Generic or unclear error messages that make troubleshooting difficult.
 
-
-- Mandatory 8-hour OSH Seminar Guide - [`Link`](https://docs.google.com/spreadsheets/d/1jDa10lR0u9Gi9n_5PA_D9ePFCEjdWw4EhznXVwMkxaY/edit?gid=297718934#gid=297718934) -Completed
-- **OfficePartners360 Call-In Procedure**
-- Call-In Procedure - [`Link`](https://people.zoho.com/ops360/training#lms-view/course/619096000254653227/overview)
-- OfficePartners360 Leave Guidelines - [`Link`](https://www.canva.com/design/DAGn_Y7_QAU/QlVXxoYmxo9jVD4IimkSHw/view)
