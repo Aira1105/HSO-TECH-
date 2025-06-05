@@ -1,0 +1,11 @@
+To check system information on Windows, you can use several methods:
+
+Run Command: Press Windows + R, type msinfo32, and hit Enter to open the System Information window.
+
+Command Prompt: Open Command Prompt (cmd), type msinfo32, and press Enter.
+
+PowerShell: Open PowerShell and run msinfo32.
+
+Settings: Go to Settings > System > About to view basic system details.
+
+Control Panel: Open Control Panel, navigate to System, and check your PC specifications.
