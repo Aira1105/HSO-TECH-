@@ -106,7 +106,7 @@
 ###### Use Windows Task Manager to verify that the server CPU is not running at 100% usage. [`How to check for CPU Utilization`](https://drive.google.com/file/d/1OlBcoNND0W9VRFd4TYftoRbpe94K2GA5/view?usp=sharing)
 ###### If so, you may need to restart the server.  
 #### **Check for exclusions in Antivirus or backup software running**  
-###### Verify that your computers meet the minimum [System Requirements](Click here) to view current requirements.  
+###### Verify that your computers meet the minimum to view current requirements. [`How to: Sysinfo`] 
 ###### Check Server disk space on the C: drive (and the data drive, if applicable). 
 ###### Ensure there is at least 10% free space on the system drive (C:), where the OS and the program files for Dentrix are located.  
 ###### Ensure there is at least 15% free space on the data drive.  
