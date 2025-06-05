@@ -192,7 +192,7 @@ Errors during installation or upgrade, sometimes related to permissions, antivir
 Problems with required prerequisites (like .NET Framework or SQL Server).
 
 Integration and Compatibility Problems
-
+ 
 Issues with integrating Dentrix with third-party software (e.g., imaging, payment processing).
 Compatibility problems after Windows updates or when using unsupported operating systems.
 
