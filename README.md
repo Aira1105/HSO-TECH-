@@ -116,21 +116,21 @@
 
 ##### **KB Article: 000063137**
 
-##### Dentrix 24.19 running slow on all computers.
-##### Workaround
-##### Try each step below, testing after each one to see if it resolves the issue:
-##### Restart Appointment Book on all computers.
-##### Restart the DentrixACEServer service.
-##### Open DBSweep.exe. There’s no need to run it—simply open and close the program. 
-##### Reboot the server.
-##### If these steps do not resolve the issue, proceed to  Environmental Slowness - First Level.
-##### Steps to Duplicate
-##### Load 24.19
-##### Open AB and create an appt for Brent Crosby. Be sure to check the "Do not show again" on the prompts
-##### Open Ctree Ace Monitor, and enable Auto Refresh for every 3 seconds
-##### Note the total number of connections for SQL and ISAM
-##### Open and close Brent's appt - no changes, click OK to close
-##### Watch the ISAM connection count rise on each open
+###### Dentrix 24.19 running slow on all computers.
+###### Workaround
+###### Try each step below, testing after each one to see if it resolves the issue:
+###### Restart Appointment Book on all computers.
+###### Restart the DentrixACEServer service.
+###### Open DBSweep.exe. There’s no need to run it—simply open and close the program. 
+###### Reboot the server.
+###### If these steps do not resolve the issue, proceed to  Environmental Slowness - First Level.
+###### Steps to Duplicate
+###### Load 24.19
+###### Open AB and create an appt for Brent Crosby. Be sure to check the "Do not show again" on the prompts
+###### Open Ctree Ace Monitor, and enable Auto Refresh for every 3 seconds
+###### Note the total number of connections for SQL and ISAM
+###### Open and close Brent's appt - no changes, click OK to close
+###### Watch the ISAM connection count rise on each open
 
  
 
