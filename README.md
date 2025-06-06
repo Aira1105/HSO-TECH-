@@ -256,3 +256,4 @@ Generic or unclear error messages that make troubleshooting difficult.
 
 https://henryscheinone.lightning.force.com/articles/Knowledge/Separating-or-Combining-Families-G7-4 - 
 https://henryscheinone.lightning.force.com/articles/Knowledge/New-Patient-Workflow
+https://henryscheinone.lightning.force.com/articles/Knowledge/63186
