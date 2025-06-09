@@ -151,11 +151,14 @@
 
 #### *Patient Chart* 	
 
-61550 - Dentrix Chart Slowness
-Perio Chart	
-Perio Chart Slowness and General Troubleshooting Index
-Document Center	
-61598 - Dentrix Document Center Slowness
+###### KB: 61550 - Dentrix Chart Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UNr4AAG/view)
+
+##### Perio Chart	
+
+##### Perio Chart Slowness and General Troubleshooting Index
+##### Document Center	
+###### KB: 61598 - Dentrix Document Center Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US39AAG/view)
+
 Ledger	
 61919 - Dentrix Ledger Slowness
 Office Manager
