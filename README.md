@@ -88,6 +88,10 @@
 |------------|-----------------|----------------------|
 |![image](https://github.com/user-attachments/assets/0e91aaaf-0a73-427a-842e-32fba7c27823)| Patient Chart | *The Dentrix Patient Chart is a comprehensive tool for managing clinical records electronically. It includes several features to enhance accuracy and efficiency in dental charting* |
 |![image](https://github.com/user-attachments/assets/1f73e90d-4a79-49cb-ba14-fe40ce0fb44a)| Family File | *The Dentrix Family File is a central hub for managing patient and household information. It organizes patients into family groups, making billing and insurance tracking more efficient.* |
+|![image](https://github.com/user-attachments/assets/d3ee820b-fc71-4c7a-ac4f-2dd65bcd99a7)| Ledger | The Dentrix Ledger is a financial management tool that tracks patient transactions, payments, and balances efficiently. It functions like a digital ledger, offering a clear view of financial activity.|
+|![image](https://github.com/user-attachments/assets/15d82f68-e901-440f-bef4-73d1d64fd3e5)| Appointment | The Dentrix Appointment Book is a scheduling tool designed to streamline patient appointments and optimize workflow.|
+
+
 
 
 
