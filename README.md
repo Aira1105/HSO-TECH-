@@ -228,7 +228,8 @@ Generic or unclear error messages that make troubleshooting difficult.
 
 000003576 Letter template
 
-![image](https://github.com/user-attachments/assets/c0cb104e-1927-4c68-b4b6-1e9f14a0314a)
+
+![image](https://github.com/user-attachments/assets/936f9191-e237-4a1f-880a-33a4e1b5d8b7)
 
 
 - Saved KB From Training
