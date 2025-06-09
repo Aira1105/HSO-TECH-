@@ -160,24 +160,21 @@
 ###### KB: 61598 - Dentrix Document Center Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US39AAG/view)
 
 #### *Ledger*	
-##### KB: 61919 - Dentrix Ledger Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UNsCAAW/view)
+###### KB: 61919 - Dentrix Ledger Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UNsCAAW/view)
 
 #### *Office Manager*
 
-##### KB: 61920 Dentrix Office Manager Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UNpwAAG/view)
+###### KB: 61920 Dentrix Office Manager Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UNpwAAG/view)
 
-#### *Treatment Planner*
+##### *Treatment Planner*
 
-##### KB: 61928 Treatment Planner Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UPjXAAW/view)
+###### KB: 61928 Treatment Planner Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UPjXAAW/view)
 
-#### *Non-Module	Article*
+##### *Non-Module	Article*
 
 ###### General slowness	
 
 ###### Environmental Slowness- First Level
-
-Remember DO NOT mention an ASSESSMENT or TKO.  After you have completed and documented the above steps with no resolution, then contact NLH/Mentor for call takeover and advanced slowness troubleshooting.
-
  
 Database Connection Errors
 
@@ -239,3 +236,4 @@ https://henryscheinone.lightning.force.com/articles/Knowledge/Separating-or-Comb
 https://henryscheinone.lightning.force.com/articles/Knowledge/New-Patient-Workflow
 https://henryscheinone.lightning.force.com/articles/Knowledge/63186
 https://henryscheinone.lightning.force.com/articles/Knowledge/20076
+https://henryscheinone.lightning.force.com/articles/Knowledge/41968
