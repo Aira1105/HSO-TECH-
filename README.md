@@ -105,7 +105,9 @@
 | `ToolBar`        | `Name`           | `Description`           |
 |------------------|------------------|-------------------------|
 |![image](https://github.com/user-attachments/assets/e4154ecc-c16a-40e6-b763-664faa7c38bc)| Employer Maintenance| *The Dentrix Employer Maintenance tool helps dental practices manage employer records efficiently. It compiles a database of employers, allowing users to assign employer details to patients without re-entering information.*|
-|![image](https://github.com/user-attachments/assets/05517f28-c489-46e6-8dc5-72020842efc8)| Fee Schedule Maintenance| The Fee Schedule Maintenance tool in Dentrix allows dental practices to manage and update procedure fees efficiently  |
+|![image](https://github.com/user-attachments/assets/05517f28-c489-46e6-8dc5-72020842efc8)| Fee Schedule Maintenance| *The Fee Schedule Maintenance tool in Dentrix allows dental practices to manage and update procedure fees efficiently.* |
+|![image](https://github.com/user-attachments/assets/058aa324-48b0-43cb-a051-f76de8c7e1b9)| Insurance Maintenance| *The Insurance Maintenance tool in Dentrix helps manage insurance plans efficiently. Users can create and update insurance plans, customize coverage percentages and payment tables, and store provider identification numbers for claims. It also allows merging duplicate insurance entries and purging outdated plans that are no longer linked to patients. This tool ensures accurate insurance data management for dental practices.*|
+
 
 
 
