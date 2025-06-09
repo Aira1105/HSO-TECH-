@@ -81,13 +81,11 @@
 - OfficePartners360 Leave Guidelines - [`Link`](https://www.canva.com/design/DAGn_Y7_QAU/QlVXxoYmxo9jVD4IimkSHw/view)
 
 
-
 ## **TOP CALL DRIVERS - DENTRIX CORE**
-
 
 ### **Performance Issues**
 
-##### **KB Article: 000061991**
+##### *KB Article: 000061991*
 
 ###### Slow startup or sluggish performance, especially on older hardware or when used with large databases.
 ###### Freezing or crashing during use.
@@ -237,3 +235,4 @@ Generic or unclear error messages that make troubleshooting difficult.
 - https://henryscheinone.lightning.force.com/articles/Knowledge/63186
 - https://henryscheinone.lightning.force.com/articles/Knowledge/20076
 - https://henryscheinone.lightning.force.com/articles/Knowledge/41968
+- 
