@@ -153,34 +153,38 @@
 
 ###### KB: 61550 - Dentrix Chart Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UNr4AAG/view)
 
-##### Perio Chart	
+#### *Perio Chart*	
 
 ##### Perio Chart Slowness and General Troubleshooting Index
 ##### Document Center	
 ###### KB: 61598 - Dentrix Document Center Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001US39AAG/view)
 
-Ledger	
-61919 - Dentrix Ledger Slowness
-Office Manager
+#### *Ledger*	
+##### KB: 61919 - Dentrix Ledger Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UNsCAAW/view)
 
-61920 Dentrix Office Manager Slowness 
-Treatment Planner
+#### *Office Manager*
 
-61928 Treatment Planner Slowness
-Log in to the server and one workstation to confirm.  (Be sure to document all the answers to the questions below in your case.)
-Is there an error message on any computer?
-Can you find it in the Knowledgebase?.
-Non-Module	Article
-General slowness	
-Environmental Slowness- First Level
+##### KB: 61920 Dentrix Office Manager Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UNpwAAG/view)
+
+#### *Treatment Planner*
+
+##### KB: 61928 Treatment Planner Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UPjXAAW/view)
+
+#### *Non-Module	Article*
+
+###### General slowness	
+
+###### Environmental Slowness- First Level
+
 Remember DO NOT mention an ASSESSMENT or TKO.  After you have completed and documented the above steps with no resolution, then contact NLH/Mentor for call takeover and advanced slowness troubleshooting.
 
  
-
 Database Connection Errors
 
 Trouble connecting to the Dentrix database, often due to server/network issues or incorrect configuration.
 SQL or database corruption leading to data access problems.
+
+
 
 Installation and Update Failures
 
@@ -229,6 +233,8 @@ Generic or unclear error messages that make troubleshooting difficult.
 
 000003576 Letter template
 
+
+Saved KB From Training
 https://henryscheinone.lightning.force.com/articles/Knowledge/Separating-or-Combining-Families-G7-4 - 
 https://henryscheinone.lightning.force.com/articles/Knowledge/New-Patient-Workflow
 https://henryscheinone.lightning.force.com/articles/Knowledge/63186
