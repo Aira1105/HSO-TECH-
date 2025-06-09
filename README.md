@@ -105,6 +105,17 @@
 | `ToolBar`        | `Name`           | `Description`           |
 |------------------|------------------|-------------------------|
 |![image](https://github.com/user-attachments/assets/e4154ecc-c16a-40e6-b763-664faa7c38bc)| Employer Maintenance| *The Dentrix Employer Maintenance tool helps dental practices manage employer records efficiently. It compiles a database of employers, allowing users to assign employer details to patients without re-entering information.*|
+|![image](https://github.com/user-attachments/assets/05517f28-c489-46e6-8dc5-72020842efc8)| Fee Schedule Maintenance| The Fee Schedule Maintenance tool in Dentrix allows dental practices to manage and update procedure fees efficiently. Here are its key features:
+
+Multiple Fee Schedules: Dentrix supports up to 999 fee schedules, enabling flexibility for different insurance plans, discount programs, or special pricing.
+
+Automatic Fee Updates: Users can update all fees at once or manually adjust individual procedure fees.
+
+Patient-Specific Fee Assignments: Fee schedules can be linked to patients based on their insurance or membership plans.
+
+Export & Import Options: Practices can export fee schedules to spreadsheets for analysis and re-import them after adjustments.
+
+Reporting & Documentation: Dentrix provides detailed reports to track fee changes and ensure accurate billing|
 
 
 
