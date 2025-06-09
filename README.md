@@ -228,6 +228,8 @@ Generic or unclear error messages that make troubleshooting difficult.
 
 000003576 Letter template
 
+![image](https://github.com/user-attachments/assets/c0cb104e-1927-4c68-b4b6-1e9f14a0314a)
+
 
 - Saved KB From Training
 - https://henryscheinone.lightning.force.com/articles/Knowledge/Separating-or-Combining-Families-G7-4 - 
