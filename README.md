@@ -133,51 +133,22 @@
 ###### Open and close Brent's appt - no changes, click OK to close
 ###### Watch the ISAM connection count rise on each open
 
- 
+##### *KB:000001772*
 
-Each opening of the appointment, creates a new ISAM connection. One office had 100+ connections from one machine. Same office would get connection limit errors once they hit 2048.
+##### Slowness Checklist:
+##### What is the full version of Dentrix currently used? 
+###### If already on a current year of Dentrix (ie 24.X, 25.X), proceed with the troubleshooting below. If they are not and all machines are affected, upgrade to our current version of Dentrix.  Offer to transfer them to the Dentrix Installs team to schedule.   Many ###### slowness and WI related to performance have been resolved in our current versions. Inform the customer that the steps we perform below are a temporary fix and that the issue will return if they are not using a current version of Dentrix. 
+###### For talking points on the advantages of upgrading, see Dentrix Automatic Updates FAQ and Links
+###### Is the slowness happening in a module(s) or all of Dentrix?  If only in a specific module(s), use the table to locate the article to use and attach.  If all module(s), go to Step 4. 
 
- 
-Dentrix 24.19 running slow on all computers.
+#### *Module	Article*
 
- 
+##### **Appointment Book** 	
 
- 
-
-Workaround
-Try each step below, testing after each one to see if it resolves the issue:
-
-Restart Appointment Book on all computers.
-Restart the DentrixACEServer service.
-Open DBSweep.exe. There’s no need to run it—simply open and close the program. 
-Reboot the server.
-If these steps do not resolve the issue, proceed to  Environmental Slowness - First Level.
-
-Steps to Duplicate
-Load 24.19
-
-Open AB and create an appt for Brent Crosby. Be sure to check the "Do not show again" on the prompts
-
-Open Ctree Ace Monitor, and enable Auto Refresh for every 3 seconds
-
-Note the total number of connections for SQL and ISAM
-
-Open and close Brent's appt - no changes, click OK to close
-
-Watch the ISAM connection count rise on each open
-
-000001772
-
-Slowness Checklist:
-What is the full version of Dentrix currently used? 
- If already on a current year of Dentrix (ie 24.X, 25.X), proceed with the troubleshooting below. If they are not and all machines are affected, upgrade to our current version of Dentrix.  Offer to transfer them to the Dentrix Installs team to schedule.   Many slowness and WI related to performance have been resolved in our current versions. Inform the customer that the steps we perform below are a temporary fix and that the issue will return if they are not using a current version of Dentrix. 
-For talking points on the advantages of upgrading, see Dentrix Automatic Updates FAQ and Links
-Is the slowness happening in a module(s) or all of Dentrix?  If only in a specific module(s), use the table to locate the article to use and attach.  If all module(s), go to Step 4. 
-Module	Article
-Appointment Book 	
-61554 - Known Issue (RESOLVED): Appointment book very slow on 24.5 & 24.6
-61548 - Dentrix Appointment Book Slowness
+##### KB: 61554 - Known Issue (RESOLVED): Appointment book very slow on 24.5 & 24.6 [`Link`](http://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
+##### KB: 61548 - Dentrix Appointment Book Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UeGjAAK/view)
 62142 - Known Issue: 24.7+ Appointment Book Freezing, Not Able to Set Appointment Complete
+
 Patient Chart 	
 61550 - Dentrix Chart Slowness
 Perio Chart	
