@@ -96,6 +96,7 @@
 |![image](https://github.com/user-attachments/assets/7cd19044-758a-45b6-b446-3abdd3251045)| Questionaire | *The Dentrix Questionnaires Module is a tool designed to help dental practices collect and manage patient information digitally, reducing reliance on paper forms.* |
 |![image](https://github.com/user-attachments/assets/d7ef9de9-a518-486d-ac08-aa8157cabf0b)| Patient Forms | *The Dentrix Patient Forms feature streamlines the collection of patient information, reducing paperwork and improving efficiency.*|
 |![image](https://github.com/user-attachments/assets/0b50426f-7cdc-4086-b6c2-4f742ef2726f)| Health History| *The Dentrix Health History Module is a comprehensive tool for tracking patient medical conditions, allergies, and medications. It replaces the older Medical Alerts feature and offers a more structured approach to documenting health-related information.*|
+|![image](https://github.com/user-attachments/assets/7f6f4885-d568-4868-987b-bf3118e20f02)| Office Journal | *The Dentrix Office Journal is a tool for tracking and documenting patient interactions, financial transactions, and office communications. It serves as a digital record of all contact between the practice and its patients.*|
 
 
 
