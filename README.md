@@ -231,9 +231,9 @@ Generic or unclear error messages that make troubleshooting difficult.
 000003576 Letter template
 
 
-Saved KB From Training
-https://henryscheinone.lightning.force.com/articles/Knowledge/Separating-or-Combining-Families-G7-4 - 
-https://henryscheinone.lightning.force.com/articles/Knowledge/New-Patient-Workflow
-https://henryscheinone.lightning.force.com/articles/Knowledge/63186
-https://henryscheinone.lightning.force.com/articles/Knowledge/20076
-https://henryscheinone.lightning.force.com/articles/Knowledge/41968
+- Saved KB From Training
+- https://henryscheinone.lightning.force.com/articles/Knowledge/Separating-or-Combining-Families-G7-4 - 
+- https://henryscheinone.lightning.force.com/articles/Knowledge/New-Patient-Workflow
+- https://henryscheinone.lightning.force.com/articles/Knowledge/63186
+- https://henryscheinone.lightning.force.com/articles/Knowledge/20076
+- https://henryscheinone.lightning.force.com/articles/Knowledge/41968
