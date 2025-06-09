@@ -145,11 +145,12 @@
 
 ##### **Appointment Book** 	
 
-##### KB: 61554 - Known Issue (RESOLVED): Appointment book very slow on 24.5 & 24.6 [`Link`](http://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
-##### KB: 61548 - Dentrix Appointment Book Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UeGjAAK/view)
-62142 - Known Issue: 24.7+ Appointment Book Freezing, Not Able to Set Appointment Complete
+###### KB: 61554 - Known Issue (RESOLVED): Appointment book very slow on 24.5 & 24.6 [`Link`](http://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UatTAAS/view)
+###### KB: 61548 - Dentrix Appointment Book Slowness [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UeGjAAK/view)
+###### KB: 62142 - Known Issue: 24.7+ Appointment Book Freezing, Not Able to Set Appointment Complete [`Link`](https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000001UZMmAAO/view)
 
-Patient Chart 	
+#### *Patient Chart* 	
+
 61550 - Dentrix Chart Slowness
 Perio Chart	
 Perio Chart Slowness and General Troubleshooting Index
