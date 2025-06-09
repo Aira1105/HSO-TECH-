@@ -82,7 +82,7 @@
 
 
 
-
+## **Dentrix Office Manager Icons**
 
 | `Icon`        | `Name`           | `Description`           |
 |------------|-----------------|----------------------|
@@ -93,6 +93,8 @@
 |![image](https://github.com/user-attachments/assets/1e71783d-44b6-4092-9c30-634fdd3c9c1a)| EDex | *The Dentrix eDex Module is an electronic contact manager that helps dental practices organize and quickly access important contact information. It functions like a digital Rolodex, storing details for patients, providers, insurance carriers, labs, pharmacies, and more.*|
 |![image](https://github.com/user-attachments/assets/995c2f1d-d6cc-4938-817b-b1baf7c34aee)| DxWeb | *The Dentrix DXWeb Toolbar is a feature that integrates Dentrix with eCentral, enabling online connectivity for dental practices. It provides tools for managing patient communication, insurance claims, and online booking.*|
 |![image](https://github.com/user-attachments/assets/99680fcb-e362-483e-985f-f604ab150e12)| DenxtriXlink| *The DentrixLink Toolbar acts as a bridge between Dentrix and third-party clinical technologies, such as digital X-ray systems and computerized perio probes. It allows seamless integration by passing patient information from Dentrix to supported external software.* |
+|![image](https://github.com/user-attachments/assets/7cd19044-758a-45b6-b446-3abdd3251045)| Questionaire | The Dentrix Questionnaires Module is a tool designed to help dental practices collect and manage patient information digitally, reducing reliance on paper forms. |
+
 
 
 
