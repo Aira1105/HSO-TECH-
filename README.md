@@ -137,7 +137,7 @@
 
 ##### Slowness Checklist:
 ##### What is the full version of Dentrix currently used? 
-###### If already on a current year of Dentrix (ie 24.X, 25.X), proceed with the troubleshooting below. If they are not and all machines are affected, upgrade to our current version of Dentrix.  Offer to transfer them to the Dentrix Installs team to schedule.   Many ###### slowness and WI related to performance have been resolved in our current versions. Inform the customer that the steps we perform below are a temporary fix and that the issue will return if they are not using a current version of Dentrix. 
+###### If already on a current year of Dentrix (ie 24.X, 25.X), proceed with the troubleshooting below. If they are not and all machines are affected, upgrade to our current version of Dentrix.  Offer to transfer them to the Dentrix Installs team to schedule. Many slowness and WI related to performance have been resolved in our current versions. Inform the customer that the steps we perform below are a temporary fix and that the issue will return if they are not using a current version of Dentrix. 
 ###### For talking points on the advantages of upgrading, see Dentrix Automatic Updates FAQ and Links
 ###### Is the slowness happening in a module(s) or all of Dentrix?  If only in a specific module(s), use the table to locate the article to use and attach.  If all module(s), go to Step 4. 
 
