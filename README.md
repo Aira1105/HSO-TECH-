@@ -315,4 +315,5 @@ Generic or unclear error messages that make troubleshooting difficult.
 - https://henryscheinone.lightning.force.com/articles/Knowledge/20076
 - https://henryscheinone.lightning.force.com/articles/Knowledge/41968
 - https://henryscheinone.lightning.force.com/articles/Knowledge/25114
-- 
+- https://henryscheinone.lightning.force.com/articles/Knowledge/17303
+- https://henryscheinone.lightning.force.com/articles/Knowledge/83487
