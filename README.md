@@ -324,6 +324,8 @@ Generic or unclear error messages that make troubleshooting difficult.
 
 
 ![image](https://github.com/user-attachments/assets/936f9191-e237-4a1f-880a-33a4e1b5d8b7)
+![image](https://github.com/user-attachments/assets/4b25ddce-eb02-483e-b7c5-fdf6951cb3d1)
+
 
 
 - Saved KB From Training
