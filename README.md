@@ -100,6 +100,34 @@
 |![image](https://github.com/user-attachments/assets/9eefe67f-5fdf-4010-8288-b97e01d2cddd)| `Document Center` | *The Dentrix Document Center is a digital storage solution that helps dental practices manage and organize patient-related documents efficiently.*|
 |![image](https://github.com/user-attachments/assets/856aac38-c48b-46b9-9a0c-7bef3ed4d3e6)| `Electronic Rx Task Mode` | *The Electronic Rx Task Mode in Dentrix is part of the ePrescribe system, allowing dental practices to manage electronic prescriptions efficiently.*|
 
+## **Dentrix Reports / Reference **
+
+| `Icon`        | `Name`           | `Description`           |
+|------------|-----------------|----------------------|
+|![image](https://github.com/user-attachments/assets/bf705712-224c-45af-87c0-03a3eecb9146)|`Procedure Code List`| *Procedure Code List contains all available dental procedure codes used for treatment planning, billing, and insurance claims. You can search for procedure codes in multiple areas, including the Patient Chart, Ledger, Appointment Book, and Procedure Code Setup. Dentrix allows users to filter codes by category or search by description to quickly locate the correct procedure. Additionally, the CDA Dental Codes List provides standard codes grouped into categories such as Diagnostic, Preventative, Restorative, Endodontics, and more*|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **Maintenance / Reference Tool Bar**
 
 | `ToolBar`        | `Name`           | `Description`           |
@@ -145,6 +173,23 @@
 |![image](https://github.com/user-attachments/assets/ce205aef-32cc-4f85-b13c-309663836265)|`Report Fonts Setup`| *Report Fonts Setup allows you to customize the fonts used in reports and statements, ensuring consistency with your practice’s branding. You can modify font family, size, and style for headers, footers, subheaders, and body text. To access this feature, go to Office Manager > Maintenance > Practice Setup > Report Fonts Setup, where you can select a font type, adjust its style (bold, italic, etc.), and set the size from 8 to 72 points. It's recommended to keep font sizes similar to defaults to avoid layout issues in printed reports.*|
 |![image](https://github.com/user-attachments/assets/f3eb49e9-be04-4025-9b73-71e98639f56f)|`Network Setup`| *Network Setup ensures seamless connectivity between workstations and the server, allowing users to share data efficiently across the practice. Dentrix supports both peer-to-peer and dedicated server networks*|
 |![image](https://github.com/user-attachments/assets/0e7db50c-66ba-4930-9841-f25214f337e8)|`Dentrix Server Administration Utility`| *The Dentrix Server Administration Utility is used to manage database exports and backups for Dentrix G5 and later versions. Since Dentrix stores data in an SQL database, this utility allows practices to schedule database exports, ensuring that backup software can properly save a copy of the database. The utility is located at C:\Program Files\Dentrix\_ServerAdmin.exe (or C:\Program Files (x86)\Dentrix\_ServerAdmin.exe on some systems). Users can configure scheduled exports by selecting specific days and times, helping maintain data integrity and recovery options in case of system failures.*|
+|![image](https://github.com/user-attachments/assets/7e79203b-318a-4722-8327-1841bd05d77b)|`Preferences`| *Preferences allow you to customize various settings to match your practice’s workflow. You can configure options related to general settings, printing, eligibility verification, statement forms, file paths, and database preferences. These settings help streamline daily operations by tailoring Dentrix to your specific needs. To access preferences, go to Office Manager > Maintenance > Practice Setup > Preferences, where you can adjust different categories to optimize efficiency.*|
+|![image](https://github.com/user-attachments/assets/3879ee50-070a-472b-be57-316ce702b4b7)|`Workstation Setup`| *Workstation Setup allows you to configure individual workstation settings to ensure consistency across your practice. You can customize appointment book preferences, ledger colors, insurance payment settings, and other workstation-specific options. To set up a workstation, go to Office Manager > Maintenance > Practice Setup > Workstation Setup, where you can save and apply settings for different computers in your network. This helps streamline workflows and maintain uniform configurations across multiple workstations.*|
+
+## **Maintenance**
+
+| `ToolBar`        | `Name`           | `Description`           |
+|------------------|------------------|-------------------------|
+|![image](https://github.com/user-attachments/assets/3b923f65-b09b-4d9f-9ceb-df4f7e810b3e)|`Task Schedule (Month-End)`| *Task Scheduler for Month-End automates routine tasks like closing the month, updating aging account balances, moving procedures and clinical notes to history, and resetting insurance benefits. This ensures accurate financial records and prevents manual errors. You can configure the scheduler in Office Manager > Maintenance > Task Scheduler (Month End) to run tasks on a set schedule, such as daily, weekly, or monthly. This helps streamline operations without needing to close Dentrix manually.*|
+|![image](https://github.com/user-attachments/assets/ae559b8b-f721-4aae-bdb3-ac9c5f96c49a)|`Audit Trail Report (Standard)`| *Audit Trail Report tracks changes made within the system, helping practices monitor financial transactions, patient modifications, appointment updates, and security-related actions. This report logs details such as the date, time, user, and type of change, ensuring transparency and fraud protection. It also includes sequential numbering to detect missing or altered reports. You can generate the Audit Trail Report in Office Manager > Maintenance > Audit Trail Report, where you can filter entries based on specific criteria.*|
+|![image](https://github.com/user-attachments/assets/bc5a0568-27c1-4fdf-b307-e9664b67b330)|`Audit Trail Report (Provider/Staff)`| *The Provider/Staff Audit Trail Report in Dentrix allows you to track changes related to provider and staff activations or inactivations within a selected date range. This report helps monitor personnel updates and provides fraud protection through sequential numbering, ensuring transparency in staff modifications. You can generate this report in Office Manager > Maintenance > Audit Trail Report (Prov/Staff), where you can filter entries based on specific criteria such as date, time, user, and type of change.*|
+|![image](https://github.com/user-attachments/assets/ddf04353-f385-46a3-9939-1dc8bda0b7ac)|`Purge Exported Files`| *Purge Exported Files allows you to permanently delete exported data to maintain database efficiency and protect sensitive patient information. When you merge letters or export data from reports, Dentrix stores a log file of the export, which can accumulate over time and increase database size. Regular purging helps prevent unnecessary storage buildup. To purge exported files, go to Office Manager > Maintenance > Purge Exported Files, select the information you want to delete, and uncheck any items you wish to keep before confirming the purge.*|
+|![image](https://github.com/user-attachments/assets/d44b2e71-a985-4729-8d22-cea1e40d0c05)|`Delete Finance Charges`| *In Dentrix, deleting finance charges allows you to remove incorrectly applied charges from patient accounts. If finance charges were posted by mistake, you can delete them for a specific date by going to Office Manager > Maintenance > Delete Finance Charges, entering the date, and confirming the deletion. This removes both manually and automatically applied charges, so it's recommended to print a Finance Charge Report beforehand to keep a record of correctly applied charges. If you need to delete charges for individual accounts, you can do so in the Ledger by double-clicking the finance charge and selecting Delete.*|
+|![image](https://github.com/user-attachments/assets/a889766b-4cf4-4cd8-a853-a7c94aadccde)|`Delete Late Charge`| *In Dentrix, deleting late charges allows you to remove incorrectly applied charges from patient accounts. If you need to delete late charges for a specific date across multiple accounts, go to Ledger > Month End > Late Charge > Delete Late Charge, enter the date, and confirm the deletion. If you only need to remove late charges from individual accounts, open the Ledger, double-click the late charge, and click Delete. Keep in mind that late charges in closed months cannot be deleted.*|
+
+
+
+
 
 
 
