@@ -105,6 +105,15 @@
 | `Icon`        | `Name`           | `Description`           |
 |------------|-----------------|----------------------|
 |![image](https://github.com/user-attachments/assets/bf705712-224c-45af-87c0-03a3eecb9146)|`Procedure Code List`| *Procedure Code List contains all available dental procedure codes used for treatment planning, billing, and insurance claims. You can search for procedure codes in multiple areas, including the Patient Chart, Ledger, Appointment Book, and Procedure Code Setup. Dentrix allows users to filter codes by category or search by description to quickly locate the correct procedure. Additionally, the CDA Dental Codes List provides standard codes grouped into categories such as Diagnostic, Preventative, Restorative, Endodontics, and more*|
+|![image](https://github.com/user-attachments/assets/0671983a-c307-4894-a352-4ed47beb241e)|`Dental Code List`| *Dental Code Lists provide standardized procedure codes used for treatment planning, billing, and insurance claims. The CDA Dental Codes List includes both short and full descriptions of procedures, grouped into categories such as Diagnostic, Preventative, Restorative, Endodontics, Periodontics, Prosthodontics, Oral Surgery, Orthodontics, and Adjunctive General Services. Dentrix allows users to search for procedure codes in the Patient Chart, Ledger, Appointment Book, and Procedure Code Setup, making it easier to locate the correct code for a specific treatment*|
+|![image](https://github.com/user-attachments/assets/a20b5cb0-4282-4f3a-907d-8572d5686d87)|`Medical Code List`| *Medical Code List allows you to view and print medical codes entered in the system. These codes are grouped by type, including AMA CPT, ICD, Modifier, Place of Service, and Type of Service. The report helps ensure medical codes are up to date and provides a reference for ICD-9-CM codes associated with AMA CPT codes. You can generate this report in Office Manager > Reports > Reference > Medical Code List, where you can filter codes based on specific criteria. Additionally, Dentrix supports ICD-10 dental diagnosis codes, which are essential for billing medical insurance. These codes help practices comply with insurance requirements and streamline claims processing*|
+|![image](https://github.com/user-attachments/assets/0b63b292-be1b-42f6-a0af-bf9858d68bfd)|`Multi-Code List`| *Multi-Codes allow you to group multiple procedures into a single code, making treatment planning, scheduling, and posting more efficient. Instead of entering each procedure separately, you can use a multi-code to post several procedures with one click. Dentrix includes predefined multi-codes, but you can also create custom ones to fit your practice’s needs. To set up a multi-code, go to Office Manager, then Maintenance, followed by Practice Setup, and finally Multi-Code Setup. Click "New" to create a new multi-code, enter a description (up to 31 characters) and an abbreviation (up to 9 characters). Select an appointment type and define the procedure time. Click "Add" to include procedures in the multi-code, then save the multi-code for use in the Appointment Book, Patient Chart, or Ledger. Multi-codes help streamline workflows by ensuring that commonly grouped procedures, such as a crown and buildup, are posted together, reducing errors and saving time.*|
+
+
+
+
+
+
 
 
 
@@ -393,3 +402,4 @@ Generic or unclear error messages that make troubleshooting difficult.
 - https://henryscheinone.lightning.force.com/articles/Knowledge/25114
 - https://henryscheinone.lightning.force.com/articles/Knowledge/17303
 - https://henryscheinone.lightning.force.com/articles/Knowledge/83487
+- https://henryscheinone.lightning.force.com/articles/Knowledge/14309
