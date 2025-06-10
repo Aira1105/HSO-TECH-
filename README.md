@@ -100,7 +100,7 @@
 |![image](https://github.com/user-attachments/assets/9eefe67f-5fdf-4010-8288-b97e01d2cddd)| `Document Center` | *The Dentrix Document Center is a digital storage solution that helps dental practices manage and organize patient-related documents efficiently.*|
 |![image](https://github.com/user-attachments/assets/856aac38-c48b-46b9-9a0c-7bef3ed4d3e6)| `Electronic Rx Task Mode` | *The Electronic Rx Task Mode in Dentrix is part of the ePrescribe system, allowing dental practices to manage electronic prescriptions efficiently.*|
 
-## **Dentrix Reports / Reference **
+## Dentrix Reports / Reference
 
 | `Icon`        | `Name`           | `Description`           |
 |------------|-----------------|----------------------|
