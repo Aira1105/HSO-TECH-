@@ -406,3 +406,5 @@ Generic or unclear error messages that make troubleshooting difficult.
 - https://henryscheinone.lightning.force.com/articles/Knowledge/20868
 - https://hsps.pro/Dentrix/Help/mergedProjects/Chart/Chart_Customization/Set_Up_Procedure_Buttons/Editing_procedure_buttons.htm
 - KB17659 How To Properly Adjust A Procedure In History In Dentrixhttps://henryscheinone.lightning.force.com/articles/Knowledge/25559
+- How To Delete A Claim In History https://henryscheinone.lightning.force.com/lightning/articles/Knowledge/25048
+- https://henryscheinone.lightning.force.com/articles/Knowledge/17531
