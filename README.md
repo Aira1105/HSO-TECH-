@@ -102,6 +102,9 @@
 
 ## Dentrix Reports / Reference
 
+|![image](https://github.com/user-attachments/assets/88c33d11-27de-4947-8474-c0afd880c461)|
+
+
 | `Icon`        | `Name`           | `Description`           |
 |------------|-----------------|----------------------|
 |![image](https://github.com/user-attachments/assets/bf705712-224c-45af-87c0-03a3eecb9146)|`Procedure Code List`| *Procedure Code List contains all available dental procedure codes used for treatment planning, billing, and insurance claims. You can search for procedure codes in multiple areas, including the Patient Chart, Ledger, Appointment Book, and Procedure Code Setup. Dentrix allows users to filter codes by category or search by description to quickly locate the correct procedure. Additionally, the CDA Dental Codes List provides standard codes grouped into categories such as Diagnostic, Preventative, Restorative, Endodontics, and more*|
