@@ -99,6 +99,16 @@
 |![image](https://github.com/user-attachments/assets/7f6f4885-d568-4868-987b-bf3118e20f02)| `Office Journal` | *The Dentrix Office Journal is a tool for tracking and documenting patient interactions, financial transactions, and office communications. It serves as a digital record of all contact between the practice and its patients.*|
 |![image](https://github.com/user-attachments/assets/9eefe67f-5fdf-4010-8288-b97e01d2cddd)| `Document Center` | *The Dentrix Document Center is a digital storage solution that helps dental practices manage and organize patient-related documents efficiently.*|
 |![image](https://github.com/user-attachments/assets/856aac38-c48b-46b9-9a0c-7bef3ed4d3e6)| `Electronic Rx Task Mode` | *The Electronic Rx Task Mode in Dentrix is part of the ePrescribe system, allowing dental practices to manage electronic prescriptions efficiently.*|
+|![image](https://github.com/user-attachments/assets/f8335d3e-c2aa-4c69-9fc1-b09c8fe5309e)| `Electronic Billing Submission` | *The Electronic Billing Submission feature in Dentrix streamlines the process of sending insurance claims and patient billing statements electronically. Dentrix eClaims*|
+|![image](https://github.com/user-attachments/assets/a1cdc36f-195f-4579-9cff-b8f1fda43674)| `Electronic Billing Submission History`| *The Electronic Billing Submission feature in Dentrix streamlines the process of sending insurance claims and patient billing statements electronically. Dentrix eClaims allows practices to submit insurance claims digitally, reducing reimbursement time from weeks to days. Claims are automatically validated before submission, ensuring accuracy and minimizing delays. Practices can also attach supporting documents, such as radiographs and photos, directly to claims.*
+|![image](https://github.com/user-attachments/assets/9f837948-70a3-4660-9db6-ed4b70d0f818)| `Electronic Claim Submission`| *The Electronic Claim Submission feature in Dentrix allows practices to send insurance claims digitally, reducing reimbursement time from weeks to days. Dentrix eClaims ensures claims are validated before submission, minimizing errors and rejections. Practices can attach supporting documents, such as digital X-rays, perio charts, and photographs*|
+|![image](https://github.com/user-attachments/assets/e99cbc3b-e05d-4da0-905d-4fb0ab4a9b8b)| `Create Batch Primary Dental Insurance Claims` | *The Create Batch Primary Dental Insurance Claims feature in Dentrix allows practices to generate multiple insurance claims at once, streamlining the billing process. Instead of creating claims individually, offices can process all primary insurance claims for procedures posted within a selected date range. Users can filter claims by provider, billing type, and procedure date, ensuring accuracy and efficiency. Claims can be printed immediately, sent to the Batch Processor for later submission, or transmitted electronically. This feature excludes procedures marked as Do Not Bill to Insurance, preventing unnecessary claims.*|
+|![image](https://github.com/user-attachments/assets/a4bb90ee-33d7-4158-af63-00ed0277d6de)| `Claims Manager` | *The Claims Manager in Dentrix provides a centralized view of all submitted insurance claims, allowing practices to track, sort, and manage claim statuses efficiently. Users can filter claims by date range, provider, insurance carrier, and claim status*|
+
+
+
+
+
 
 ## Dentrix Reports / Reference
 
@@ -195,6 +205,14 @@
 |![image](https://github.com/user-attachments/assets/c81aac31-d287-4606-be7a-a62c42a0dc04)|`Archived Patient List`| *The Archived Patient List in Dentrix displays patients whose status has been changed to Archived in the Family File. This report helps practices track patients who are no longer active, such as those who have moved away or passed away. Archived patients are removed from search results, continuing care lists, and appointment schedules, ensuring that they do not appear in routine reports. The list includes details such as patient name, last visit date, and archived status, making it useful for record management. Practices can generate this report through the Office Manager under Reports > Lists > Archived Patient List*|
 |![image](https://github.com/user-attachments/assets/7412e5a3-7f9f-423b-94db-2103c23c0609)|`Patient Notes Report`| *The Patient Notes Report in Dentrix provides a comprehensive overview of all notes entered for a patient, including general notes, alerts, and journal entries. This report helps practices track patient interactions, treatment details, and important reminders. It can be generated from the Family File or Office Manager, allowing users to filter by patient range, note type, and date. Security settings may require user verification before printing the report.*|
 ![image](https://github.com/user-attachments/assets/ffc0c75e-57cd-40a9-a973-6c562e1469a9)|`Patient Privacy Requests List`| *The Patient Privacy Requests List in Dentrix displays patients who have privacy preferences set in their Family File. It helps practices manage communication preferences and ensure compliance with patient requests. The report includes options such as No Phone Calls, No Correspondence, and Disclosure Restrictions, allowing staff to filter patients based on their privacy settings. Practices can generate this report through the Office Manager under Reports > Lists > Patient Privacy Requests List*|
+
+## Dentrix Reports / Blank ADA Form
+|![image](https://github.com/user-attachments/assets/1f2a8fd6-0b02-4c58-aeab-831685d3c424)|
+|-----------------------------------------------------------------------------------------|
+
+| `Icon`        | `Name`           | `Description`           |
+|------------|-----------------|----------------------|
+|![image](https://github.com/user-attachments/assets/db796e8c-2e43-41d0-bae1-d8b00a1f2bdc)|`Blank ADA Form`| *The Blank ADA Form in Dentrix allows practices to print a blank American Dental Association (ADA) claim form for manual completion. This feature is useful when submitting paper claims that require handwritten or typed entries. Users can select the claim format, such as 2024, 2019, 2018, or 2012, and save their preferred format for future use. The blank form can be printed through the Office Manager under Reports > Blank ADA Form, and it is sent to the Batch Processor for printing*|
 
 
 
