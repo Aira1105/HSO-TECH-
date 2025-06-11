@@ -12,9 +12,9 @@
 
 | Tools                            | Location      | Application                               | Load Time (Min/Max)         | Resource Allocation                    | Link                                                        |
 |----------------------------------|---------------|-------------------------------------------|-----------------------------|----------------------------------------|-------------------------------------------------------------|
-|Allsec LILO *Important*           | Local  Machine | Google Chrome                             |  30secs/1min                |Low                 |  [`🔗`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
+|Allsec LILO *Important*           | Local  Machine | Google Chrome                             |  30secs/1min                | Low                 |  [`🔗`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) |
 |OP360 Google Suites               | Local  Machine | Google Chrome                             |  1min/2mins                 | Moderate           | [`🔗`](https://mail.google.com/mail/u/0/?pli=1#inbox)                                                            |
-|Remote Desktop                    | Local  Machine | Stand-alone App                           | 3mins/5mins                 | High                  |                                                             |           
+|Remote Desktop                    | Local  Machine | Stand-alone App                           | 3mins/5mins                 | $\color{Red}\Huge{\textsf{Low}}$                |                                                             |           
 |Github Repository                 | Local  Machine | Google Chrome                             |  30secs/1min                |Low                 |  [`🔗`](https://github.com/Aira1105/HSO-Tech)                                                            |
 |Salesforce HS1 Support Console CRM| AVD/VMware    | Google Chrome                             |  2mins/4mins                | High                  |  [`🔗`](https://henryscheinone.lightning.force.com/lightning/page/home)                                                            |
 |Bomgar Remote                     | AVD/VMware    | Stand-alone App                           |  1min/2mins                 | High                  |                                                             |
@@ -554,12 +554,7 @@ https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v00000
 
 
 
-|`KB: 000064239: Knowledge Article: Modifying Password Security Settings`| 
-|-------------------------------------------------------------------------|
-|![image](https://github.com/user-attachments/assets/571233e4-5977-4a5c-9bd7-0cddca47f43b)|
-|![image](https://github.com/user-attachments/assets/16cd867b-3b4d-4f28-9f18-342cdb6331c0)|
-|![image](https://github.com/user-attachments/assets/28b668e5-5be1-48ee-97d4-0be6ad60434b)|
-|![image](https://github.com/user-attachments/assets/053af08c-8ad9-4268-b991-2c8d11f27615)|
+
 
 
 
