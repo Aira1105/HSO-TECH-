@@ -155,6 +155,7 @@
 ## Dentrix Reports /  Ledger
 |![image](https://github.com/user-attachments/assets/81a6309d-a1f4-4874-a4d7-ba91c4298686)|
 |-----------------------------------------------------------------------------------------|
+
 | `Icon`        | `Name`           | `Description`           |
 |------------|-----------------|----------------------|
 |![image](https://github.com/user-attachments/assets/08e4a40e-ed0e-4d70-abd0-89e2b212b272)|`Family Ledger Report`| *The Family Ledger Report in Dentrix provides a detailed account history of all transactions—including procedures, payments, adjustments, and service charges—for every patient within a family over a specified date range. This report helps practices track financial activity at the family level, ensuring that balances and payments are accurately recorded. he report includes key details such as treatment dates, tooth numbers, descriptions, charges, payments, and a running balance. It also calculates year-to-date totals for finance charges, late charges, family payments, and insurance payments. Practices can customize the report by selecting specific guarantors, providers, billing types, and transaction dates. Additionally, there is an option to separate and list individual patient balances at the bottom of the report for a clearer breakdown of financial responsibility*|
