@@ -178,6 +178,7 @@
 ## Dentrix Reports /  List
 |![image](https://github.com/user-attachments/assets/2115d607-cb4b-488a-8cd8-d3d830141b6b)|
 |-----------------------------------------------------------------------------------------|
+
 | `Icon`        | `Name`           | `Description`           |
 |------------|-----------------|----------------------|
 |![image](https://github.com/user-attachments/assets/2a76b9a6-e1cf-458d-b077-c5c0b72ecad7)|`Daily Appointment List`| *The Daily Appointment List in Dentrix consists of four separate reports: Operatory Appointment List, Patient Route Slips, Family Appointment List, and Daily Appointment List. These reports provide a comprehensive view of scheduled appointments, including details such as appointment date, status, time, patient name, provider, operatory, appointment reason, and duration. Practices can generate these reports through the Office Manager under the Reports > Lists section, filtering by provider, operatory, and appointment date*|
