@@ -552,7 +552,7 @@ Generic or unclear error messages that make troubleshooting difficult.
 |Empty Dentrix: Close Dentrix
 |Stop ALL Dentrix Services|
 |![image](https://github.com/user-attachments/assets/b0ecba69-4de3-45ee-ad0f-b893ab899b10)|
-|![image](https://github.com/user-attachments/assets/f2f0c692-6754-4458-804b-46cc31af4d68)|
+|![image](https://github.com/user-attachments/assets/0b4b58eb-3733-4c3d-9779-efb36b0260a9)|
 |Go to Dentrix|
 |C:Dentrix/DB - DentrixSQL.DBS - Rename to DentrixSQL.DBS__|
 |![image](https://github.com/user-attachments/assets/8f741604-ce7b-428b-94d8-9c929da0ba2f)|
