@@ -529,16 +529,62 @@ Generic or unclear error messages that make troubleshooting difficult.
 ![image](https://github.com/user-attachments/assets/936f9191-e237-4a1f-880a-33a4e1b5d8b7)
 ![image](https://github.com/user-attachments/assets/4b25ddce-eb02-483e-b7c5-fdf6951cb3d1)
 
+|Installation|
+|------------|
+|Download the installer|
+|Extract|
+|![image](https://github.com/user-attachments/assets/2c592a13-72e9-414a-b96f-7349d44564d0)|
+|![image](https://github.com/user-attachments/assets/db02bbcb-f2e5-4ebb-b91b-1b12c4a091b0)|
+|Installs|
+|![image](https://github.com/user-attachments/assets/44de8e69-5153-48e4-b61d-c276155e9175)|
+|Click on the dentrix version|
+|![image](https://github.com/user-attachments/assets/784f8953-e60d-440d-b4b2-06889d28fe5f)|
+|Setup|
+|![image](https://github.com/user-attachments/assets/a4c6effd-39f0-4f6e-9815-b03f12ca0d1a)|
+|Server and Workstation Files|
+|![image](https://github.com/user-attachments/assets/38c87ed5-de27-4c83-9562-7595a557c396)|
+|Advanced|
+|![image](https://github.com/user-attachments/assets/d1d47df6-e16b-4058-8bce-88e72f5e4439)|
+|Passphrase: Dentrix123!|
+|![image](https://github.com/user-attachments/assets/a63f0f35-37a8-4d6b-a1d1-532225fde546)|
+|Complete|
+|![image](https://github.com/user-attachments/assets/3ffb67d5-0f4d-4e13-91f8-4dccad906fb2)|
+|Empty Dentrix: Close Dentrix
+|Stop ALL Dentrix Services|
+|![image](https://github.com/user-attachments/assets/b0ecba69-4de3-45ee-ad0f-b893ab899b10)|
+|![image](https://github.com/user-attachments/assets/f2f0c692-6754-4458-804b-46cc31af4d68)|
+|Go to Dentrix|
+|C:Dentrix/DB - DentrixSQL.DBS - Rename to DentrixSQL.DBS__|
+|![image](https://github.com/user-attachments/assets/8f741604-ce7b-428b-94d8-9c929da0ba2f)|
+|Go to downloaded file|
+|![image](https://github.com/user-attachments/assets/051ccbc4-ff6b-454b-834b-36329e00b60b)|
+|![image](https://github.com/user-attachments/assets/9c6e0c25-a83e-46bb-9d72-b38b01c80a57)|
+|DBCopyforBackup|
+|Copy DentrixSQL.DBS|
+|![image](https://github.com/user-attachments/assets/266a70e9-80e3-4bd0-a60d-f13722e4ee6b)|
+|Paste to Dentrix-DB|
+|![image](https://github.com/user-attachments/assets/6affe58c-4c45-4f96-b48f-45496d205cfe)|
+|Restart Services|
+|![image](https://github.com/user-attachments/assets/c222fbc8-5e62-4c65-94fd-d20bddec14b1)|
+|Open Dentrix|
+|![image](https://github.com/user-attachments/assets/770fe551-b6dd-4031-8eb9-0618e0a90f3c)|
+|Enjoy!|
 
-Download the installer
-Extract
-![image](https://github.com/user-attachments/assets/2c592a13-72e9-414a-b96f-7349d44564d0)
-![image](https://github.com/user-attachments/assets/db02bbcb-f2e5-4ebb-b91b-1b12c4a091b0)
-Installs
-![image](https://github.com/user-attachments/assets/44de8e69-5153-48e4-b61d-c276155e9175)
-Click on the dentrix version
-![image](https://github.com/user-attachments/assets/784f8953-e60d-440d-b4b2-06889d28fe5f)
-Setup
+
+
+
+
+|Copy DentrixSQL.DBS from Downloaded File|
+|
+|Go back to the downloaded file|
+|DBCopyForBackUp|
+|
+
+
+
+
+
+
 
 
 
