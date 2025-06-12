@@ -530,6 +530,20 @@ Generic or unclear error messages that make troubleshooting difficult.
 ![image](https://github.com/user-attachments/assets/4b25ddce-eb02-483e-b7c5-fdf6951cb3d1)
 
 
+Download the installer
+
+
+![image](https://github.com/user-attachments/assets/7e679ba1-8b61-4231-8b1e-176829f54774)
+![image](https://github.com/user-attachments/assets/7bbd0eee-b8dd-401d-a54e-5ace81b32ed2)
+Installs
+![image](https://github.com/user-attachments/assets/5fea034e-cfdf-4aa0-8c81-f1dab9c3d909)
+Click on the dentrix version
+
+
+
+
+
+
 
 - Saved KB From Training
 - https://henryscheinone.lightning.force.com/articles/Knowledge/Separating-or-Combining-Families-G7-4 - 
@@ -550,6 +564,8 @@ Generic or unclear error messages that make troubleshooting difficult.
 - Outbound Call Recording Policy & Guidelines- Article Number
 000052268
 https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pY9PAAU/view
+
+
 
 
 
