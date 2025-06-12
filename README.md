@@ -531,13 +531,15 @@ Generic or unclear error messages that make troubleshooting difficult.
 
 
 Download the installer
-
-
-![image](https://github.com/user-attachments/assets/7e679ba1-8b61-4231-8b1e-176829f54774)
-![image](https://github.com/user-attachments/assets/7bbd0eee-b8dd-401d-a54e-5ace81b32ed2)
+Extract
+![image](https://github.com/user-attachments/assets/2c592a13-72e9-414a-b96f-7349d44564d0)
+![image](https://github.com/user-attachments/assets/db02bbcb-f2e5-4ebb-b91b-1b12c4a091b0)
 Installs
-![image](https://github.com/user-attachments/assets/5fea034e-cfdf-4aa0-8c81-f1dab9c3d909)
+![image](https://github.com/user-attachments/assets/44de8e69-5153-48e4-b61d-c276155e9175)
 Click on the dentrix version
+![image](https://github.com/user-attachments/assets/784f8953-e60d-440d-b4b2-06889d28fe5f)
+Setup
+
 
 
 
