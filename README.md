@@ -569,16 +569,3 @@ Generic or unclear error messages that make troubleshooting difficult.
 |Open Dentrix|
 |![image](https://github.com/user-attachments/assets/770fe551-b6dd-4031-8eb9-0618e0a90f3c)|
 |Enjoy!|
-|Copy DentrixSQL.DBS from Downloaded File|
-|
-|Go back to the downloaded file|
-|DBCopyForBackUp|
-|
-
-
-
-
-
-
-
-
