@@ -569,58 +569,11 @@ Generic or unclear error messages that make troubleshooting difficult.
 |Open Dentrix|
 |![image](https://github.com/user-attachments/assets/770fe551-b6dd-4031-8eb9-0618e0a90f3c)|
 |Enjoy!|
-
-
-
-
-
 |Copy DentrixSQL.DBS from Downloaded File|
 |
 |Go back to the downloaded file|
 |DBCopyForBackUp|
 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Saved KB From Training
-- https://henryscheinone.lightning.force.com/articles/Knowledge/Separating-or-Combining-Families-G7-4 - 
-- https://henryscheinone.lightning.force.com/articles/Knowledge/New-Patient-Workflow
-- https://henryscheinone.lightning.force.com/articles/Knowledge/63186
-- https://henryscheinone.lightning.force.com/articles/Knowledge/20076
-- https://henryscheinone.lightning.force.com/articles/Knowledge/41968
-- https://henryscheinone.lightning.force.com/articles/Knowledge/25114
-- https://henryscheinone.lightning.force.com/articles/Knowledge/17303
-- https://henryscheinone.lightning.force.com/articles/Knowledge/83487
-- https://henryscheinone.lightning.force.com/articles/Knowledge/14309
-- https://henryscheinone.lightning.force.com/articles/Knowledge/20868
-- https://hsps.pro/Dentrix/Help/mergedProjects/Chart/Chart_Customization/Set_Up_Procedure_Buttons/Editing_procedure_buttons.htm
-- KB17659 How To Properly Adjust A Procedure In History In Dentrixhttps://henryscheinone.lightning.force.com/articles/Knowledge/25559
-- How To Delete A Claim In History https://henryscheinone.lightning.force.com/lightning/articles/Knowledge/25048
-- https://henryscheinone.lightning.force.com/articles/Knowledge/17531
-- https://henryscheinone.lightning.force.com/articles/Knowledge/14142
-- Outbound Call Recording Policy & Guidelines- Article Number
-000052268
-https://henryscheinone.lightning.force.com/lightning/r/Knowledge__kav/ka04v000000pY9PAAU/view
-
-
-
-
-
-
-
-
-
 
 
 
