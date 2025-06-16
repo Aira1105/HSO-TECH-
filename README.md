@@ -61,6 +61,7 @@
 - Sharlyn - Kent - 06/17/2025
 ### HSO Training Links and Courses
 ###### Refresh Skilljar page for errors when opening a new tab.
+- Dentrix Mastery Track - [`Link`](https://www.dentrix.com/mastery)
 - Training - Skilljar - Technical Support : New Hire Onboarding - [`Link`](https://hso.skilljar.com/path/technical-support-new-hire-onboarding-series)
 - Training - Skilljar - Dentrix Tier 1: Support Training - [`Link`](https://hso.skilljar.com/dentrix-tier-1-support-training)
 ### HSO Training Guides
