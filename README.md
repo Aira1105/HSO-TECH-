@@ -26,7 +26,7 @@
 
 
 
-|`Eric Girao`|
+|`From Eric Girao`|
 |------------|
 |![image](https://github.com/user-attachments/assets/4315d327-6551-41c4-82dd-8e195b2a81f9)|
 
