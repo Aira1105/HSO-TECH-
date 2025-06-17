@@ -24,6 +24,13 @@
 |Total Load Time                   |                                |                                           | 12mins/23mins                     |                                        |                                                             |
 ###### *Set Default Browser to Google Chrome across 2 environments*
 
+
+
+|`Eric Girao`|
+|------------|
+|![image](https://github.com/user-attachments/assets/4315d327-6551-41c4-82dd-8e195b2a81f9)|
+
+
 ### OP360 Tools
 ###### *Important OfficePartners360 Links*
 - Allsec Website - [`Link`](https://www.allsechro.ph/OP360/Common/HomePage.aspx) - *Make sure to check your Log-ins to prevent disputes and corrections*
